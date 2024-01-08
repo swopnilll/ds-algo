@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="051761c2-6c84-41a7-9511-4a33ec7b1a7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/ValidateSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
@@ -58,7 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1704194268189</updated>
       <workItem from="1704194269193" duration="4037000" />
-      <workItem from="1704542238842" duration="178000" />
+      <workItem from="1704542238842" duration="1961000" />
+      <workItem from="1704666894310" duration="3191000" />
     </task>
     <servers />
   </component>
